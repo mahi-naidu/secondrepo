@@ -1,0 +1,6 @@
+Hard ware(cpu/ram,storage,network)
+Data center-aws cloud
+Computing /storage/network
+cicd
+vms/kubernetes(k8s)
+automation

@@ -1,0 +1,5 @@
+class 1
+
+hardware:cup/ram,storage,network
+cpu-speed/cores/millis,micro
+1cpu=1000micro=100% usage
